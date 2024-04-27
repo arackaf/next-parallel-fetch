@@ -9,7 +9,7 @@ export default async function RootLayout({
 
   return (
     <div>
-      <h1>Inner layout</h1>
+      <h1>foo/[id]/bar layout</h1>
       {children}
     </div>
   );
